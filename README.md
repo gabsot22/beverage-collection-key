@@ -1,6 +1,6 @@
 # Assignment 1 - Review of C# Basic Concepts and Introduction to Git
 
-## Due
+## Due 01-22-2020
 
 ## Author
 
